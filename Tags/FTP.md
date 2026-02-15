@@ -1,0 +1,21 @@
+# FTP - File Transfer Protocol
+
+---
+
+## 📌 Définition
+> **FTP (File Transfer Protocol)** is a network protocol used to transfer files between a client and a server. Misconfigured FTP servers may allow anonymous access or expose sensitive files, leading to information disclosure or credential leaks.
+
+---
+
+## 🛠️ Impact
+- Unauthorized access to sensitive files through anonymous login
+- Credential disclosure through exposed backups or configuration files
+- Upload of malicious files if write permissions are allowed
+- Information gathering useful for further exploitation
+
+---
+
+## 🧪 Machines / Writeups
+
+- [Hawk (Medium)](../Machines/Medium/Hawk.md)
+

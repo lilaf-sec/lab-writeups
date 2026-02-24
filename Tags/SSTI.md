@@ -17,5 +17,11 @@
 
 ## 🧪 Machines / Writeups
 
-- [GoodGames (Easy)](../Machines/Easy/GoodGames.md)
-- [Bolt (Medium)](../Machines/Medium/Bolt.md)
+### 🟢 Easy
+- [GoodGames](../Machines/Easy/GoodGames.md)
+- [Nunchucks](../Machines/Easy/Nunchucks.md)
+
+### 🟡 Medium
+- [Bolt](../Machines/Medium/Bolt.md)
+- [Flustered](../Machines/Medium/Flustered.md)
+

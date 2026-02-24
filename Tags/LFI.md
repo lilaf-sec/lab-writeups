@@ -17,5 +17,12 @@
 
 ## 🧪 Machines / Writeups
 
-[FriendZone (Easy)](../Machines/Easy/FriendZone.md)
+### 🟢 Easy
+- [FriendZone](../Machines/Easy/FriendZone.md)
+- [Responder](../Machines/Easy/Responder.md)
 
+### 🟡 Medium
+- [Devzat](../Machines/Medium/Devzat.md)
+- [Instant](../Machines/Medium/Instant.md)
+- [Poison](../Machines/Medium/Poison.md)
+- [Waldo](../Machines/Medium/Waldo.md)

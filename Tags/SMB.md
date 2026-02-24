@@ -17,5 +17,8 @@
 
 ## 🧪 Machines / Writeups
 
-- [FriendZone (Easy)](../Machines/Easy/FriendZone.md)
-
+### 🟢 Easy
+- [FriendZone](../Machines/Easy/FriendZone.md)
+- [Legacy](../Machines/Easy/Legacy.md)
+- [Lame](../Machines/Easy/Lame.md)
+- [Responder](../Machines/Easy/Responder.md)

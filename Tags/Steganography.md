@@ -1,0 +1,25 @@
+# Steganography
+
+---
+
+## 📌 Definition
+> **Steganography** is a technique used to hide data inside other files (such as images, audio, or documents) in a way that conceals the existence of the hidden information.
+
+---
+
+## 🛠️ Impact
+
+- Hidden credentials, flags, or sensitive information inside media files
+
+---
+
+## 🧪 Machines / Writeups
+
+### 🟢 Easy
+- [Apocalyst](../Machines/Easy/Apocalyst.md)
+- [Irked](../Machines/Easy/Irked.md)
+
+### 🟡 Medium
+
+- [Tenten](../Machines/Medium/Tenten.md)
+

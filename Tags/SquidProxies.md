@@ -15,3 +15,8 @@
 ---
 
 ## 🧪 Machines / Writeups
+
+### 🟢 Easy
+
+- [Flustered](../Machines/Medium/Flustered.md)
+

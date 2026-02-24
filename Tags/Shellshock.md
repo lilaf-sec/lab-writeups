@@ -15,3 +15,7 @@
 ---
 
 ## 🧪 Machines / Writeups
+
+### 🟢 Easy
+- [Shocker](../Machines/Easy/Shocker.md)
+

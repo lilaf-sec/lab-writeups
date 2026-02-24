@@ -17,4 +17,8 @@
 
 ## 🧪 Machines / Writeups
 
-- [Jeeves (Medium)](../Machines/Medium/Jeeves.md)
+### 🟢 Easy
+- [Responder](../Machines/Easy/Responder.md)
+
+### 🟡 Medium
+- [Jeeves](../Machines/Medium/Jeeves.md)

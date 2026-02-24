@@ -17,5 +17,11 @@
 
 ## 🧪 Machines / Writeups
 
-- [Hawk (Medium)](../Machines/Medium/Hawk.md)
+### 🟢 Easy
+- [Toolbox](../Machines/Easy/Toolbox.md)
+- [Devel](../Machines/Easy/Devel.md)
+- [Netmon](../Machines/Easy/Netmon.md)
+
+### 🟡 Medium
+- [Hawk](../Machines/Medium/Hawk.md)
 

@@ -22,6 +22,7 @@ This repository contains my **CTF** machine writeups, organized by difficulty an
 
 Each tag contains a list of related machines and writeups.
 
+- [ActiveDirectory](Tags/ActiveDirectory.md)
 - [ApiAbuse](Tags/ApiAbuse.md)
 - [CMS](Tags/CMS.md)
 - [Deserialization](Tags/Deserialization.md)
@@ -34,16 +35,20 @@ Each tag contains a list of related machines and writeups.
 - [LatexInjection](Tags/LatexInjection.md)
 - [LFI](Tags/LFI.md)
 - [Log4Shell](Tags/Log4Shell.md)
+- [LogPoisoning](Tags/LogPoisoning.md)
 - [NoSQL](Tags/NoSQL.md)
+- [NTLM](Tags/NTLM.md)
+- [Other](Tags/Other.md)
 - [PassTheHash](Tags/PassTheHash.md)
 - [Python](Tags/Python.md)
 - [Shellshock](Tags/Shellshock.md)
 - [SMB](Tags/SMB.md)
+- [SNMP](Tags/SNMP.md)
 - [SQL](Tags/SQL.md)
 - [SquidProxies](Tags/SquidProxies.md)
 - [SSRF](Tags/SSRF.md)
 - [SSTI](Tags/SSTI.md)
-- [SUID](Tags/SUID.md)
+- [Steganography](Tags/Steganography.md)
 - [XSS](Tags/XSS.md)
 - [XXE](Tags/XXE.md)
 

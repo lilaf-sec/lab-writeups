@@ -16,3 +16,19 @@
 ---
 
 ## 🧪 Machines / Writeups
+
+### 🟢 Easy
+
+- [Chemistry](../Machines/Easy/Chemistry.md)
+- [Jerry](../Machines/Easy/Jerry.md)
+- [Forgotten](../Machines/Easy/Forgotten.md)
+- [Editor](../Machines/Easy/Nibbles.md)
+- [Alert](../Machines/Easy/Alert.md)
+- [Grandpa](../Machines/Easy/Grandpa.md)
+- [Granny](../Machines/Easy/Granny.md)
+- [Networked](../Machines/Easy/Networked.md)
+
+### 🟡 Medium
+
+- [Popcorn](../Machines/Medium/Popcorn.md)
+

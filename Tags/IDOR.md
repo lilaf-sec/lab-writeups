@@ -16,3 +16,12 @@
 ---
 
 ## 🧪 Machines / Writeups
+
+### 🟢 Easy
+- [Cap](../Machines/Easy/Cap.md)
+
+
+### 🟡 Medium
+
+- [Tenten](../Machines/Medium/Tenten.md)
+

@@ -16,3 +16,7 @@
 ---
 
 ## 🧪 Machines / Writeups
+
+### 🟢 Easy
+- [NodeBlog](../Machines/Easy/NodeBlog.md)
+

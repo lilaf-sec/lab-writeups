@@ -16,4 +16,5 @@
 
 ## 🧪 Machines / Writeups
 
-- [Crafty (Easy)](../Machines/Easy/Crafty.md)
+### 🟢 Easy
+- [Crafty](../Machines/Easy/Crafty.md)

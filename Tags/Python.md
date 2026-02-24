@@ -17,5 +17,18 @@
 
 ## 🧪 Machines / Writeups
 
-- [FriendZone (Easy)](../Machines/Easy/FriendZone.md)
-- [Chaos (Medium)](../Machines/Medium/Chaos.md)
+### 🟢 Easy
+- [FriendZone](../Machines/Easy/FriendZone.md)
+- [Spectra](../Machines/Easy/Spectra.md)
+- [Chemistry](../Machines/Easy/Chemistry.md)
+- [Bashed](../Machines/Easy/Bashed.md)
+- [code](../Machines/Easy/Code.md)
+- [ScriptKiddie](../Machines/Easy/ScriptKiddie.md)
+
+
+### 🟡 Medium
+- [Chaos](../Machines/Medium/Chaos.md)
+- [Instant](../Machines/Medium/Instant.md)
+- [SolidState](../Machines/Medium/SolidState.md)
+- [Stratosphere](../Machines/Medium/Stratosphere.md)
+- [Tenten](../Machines/Medium/Tenten.md)

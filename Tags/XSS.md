@@ -16,3 +16,8 @@
 ---
 
 ## 🧪 Machines / Writeups
+
+### 🟢 Easy
+
+- [Alert](../Machines/Easy/Alert.md)
+

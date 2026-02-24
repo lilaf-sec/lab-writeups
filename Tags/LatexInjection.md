@@ -16,4 +16,5 @@
 
 ## 🧪 Machines / Writeups
 
-- [Chaos (Medium)](../Machines/Medium/Chaos.md)
+### 🟡 Medium
+- [Chaos](../Machines/Medium/Chaos.md)

@@ -18,16 +18,16 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Blocky](../Machines/Easy/Blocky.md)
-- [Spectra](../Machines/Easy/Spectra.md)
-- [BoardLight](../Machines/Easy/BoardLight.md)
-- [Editor](../Machines/Easy/Editor.md)
-- [Editor](../Machines/Easy/Nibbles.md)
-- [Blue](../Machines/Easy/Blue.md)
-- [Horizontall](../Machines/Easy/Horizontall.md)
-- [PermX](../Machines/Easy/PermX.md)
+- [Blocky](/Machines/Easy/Blocky.md)
+- [Spectra](/Machines/Easy/Spectra.md)
+- [BoardLight](/Machines/Easy/BoardLight.md)
+- [Editor](/Machines/Easy/Editor.md)
+- [Editor](/Machines/Easy/Nibbles.md)
+- [Blue](/Machines/Easy/Blue.md)
+- [Horizontall](/Machines/Easy/Horizontall.md)
+- [PermX](/Machines/Easy/PermX.md)
 
 ### 🟡 Medium
-- [Hawk](../Machines/Medium/Hawk.md)
-- [Tenten](../Machines/Medium/Tenten.md)
-- [Apocalyst](../Machines/Medium/Apocalyst.md)
+- [Hawk](/Machines/Medium/Hawk.md)
+- [Tenten](/Machines/Medium/Tenten.md)
+- [Apocalyst](/Machines/Medium/Apocalyst.md)

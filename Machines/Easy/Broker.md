@@ -1,6 +1,6 @@
 # HTB — Broker
 
-**Official HTB page**: https://app.hackthebox.com/machines/Broker?tab=play_machine
+**Official HTB page**: [Broker](https://app.hackthebox.com/machines/Broker?tab=play_machine)
 
 **Difficulty**: Easy  
 **OS**: Linux  

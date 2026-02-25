@@ -1,6 +1,6 @@
 # HTB — Chemistry
 
-**Official HTB page**: https://app.hackthebox.com/machines/Chemistry?tab=machine_info
+**Official HTB page**: [Chemistry](https://app.hackthebox.com/machines/Chemistry?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Linux  

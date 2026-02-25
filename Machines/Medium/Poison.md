@@ -1,6 +1,6 @@
 # HTB — Poison
 
-**Official HTB page**: https://app.hackthebox.com/machines/Poison  
+**Official HTB page**: [Poison](https://app.hackthebox.com/machines/Poison)  
 
 **Difficulty**: Medium  
 **OS**: FreeBSD  

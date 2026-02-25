@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Security Labs | Writeups by Lilaf-sec</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <meta name="description" content="Portfolio et Writeups de cybersécurité, CTF et Labs par Lilaf-sec.">
+  <meta property="og:title" content="Security Labs | Lilaf-sec">
+  <meta property="og:description" content="Explorations, CTF, et Writeups en cybersécurité.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
+  <style>
+    :root {
+      --base-font-family: 'Inter', sans-serif;
+      --heading-font-weight: 600;
+      --theme-color: #9d66ff; 
+      --base-background: #1a1b26; 
+      --base-color: #cbd5e1; 
+      --sidebar-background: #1a1b26; 
+      --sidebar-name-color: #9d66ff;
+      --sidebar-nav-link-color: #94a3b8;
+      --sidebar-nav-link-color--active: #c084fc; 
+      --code-theme-background: #15161e; 
+      --code-font-family: 'Fira Code', 'Consolas', monospace;
+      --code-inline-background: #2e1065; 
+      --code-inline-color: #ddd6fe;
+      --code-inline-border-radius: 4px;
+      --content-max-width: 70em; 
+      --notice-important-border-color: #ef4444; 
+    }
+
+    /* Style Sidebar */
+    .sidebar-nav strong {
+      color: #f8fafc;
+      display: block;
+      margin-top: 24px;
+      margin-bottom: 8px;
+      font-size: 0.85em;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      border-left: 3px solid #9d66ff; 
+      padding-left: 10px;
+    }
+
+    /* Scrollbar */
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    ::-webkit-scrollbar-track { background: #1a1b26; }
+    ::-webkit-scrollbar-thumb { background: #312e81; border-radius: 10px; }
+    ::-webkit-scrollbar-thumb:hover { background: #4c1d95; }
+
+    /* Transitions Liens */
+    section.content a { 
+      text-decoration: none; 
+      transition: color 0.2s ease-in-out, border-bottom 0.2s ease-in-out;
+      border-bottom: 1px dashed transparent;
+    }
+    section.content a:hover { 
+      color: #c084fc !important; 
+      border-bottom: 1px dashed #c084fc;
+    }
+
+    /* Loader */
+    .app-loader {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      color: #9d66ff;
+      background: #1a1b26;
+    }
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid rgba(157, 102, 255, 0.2);
+      border-top-color: #9d66ff;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin-bottom: 15px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div class="app-loader">
+      <div class="spinner"></div>
+      Déchiffrement de l'environnement...
+    </div>
+  </div>
+  
+  <script>
+    window.$docsify = {
+      name: 'Security Labs',
+      repo: 'lilaf-sec/lab-writeups', 
+      coverpage: true,
+      onlyCover: false,
+      loadSidebar: true,
+      autoHeader: true, 
+      notFoundPage: true, 
+      
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      sidebarDisplayLevel: 1, 
+      subMaxLevel: 3, 
+      auto2top: true,
+      executeScript: true, 
+      
+      search: {
+        paths: 'auto',
+        placeholder: '',
+        noData: '❌ Aucun résultat.',
+        depth: 4
+      },
+
+      copyCode: {
+        buttonText : '📋 Copier',
+        errorText  : '❌ Erreur',
+        successText: '✅ Own !'
+      },
+
+      pagination: {
+        previousText: 'Précédent',
+        nextText: 'Suivant',
+        crossChapter: true,
+      },
+
+      count: {
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'right',
+        fontsize:'0.9em',
+        color:'rgb(148, 163, 184)',
+        language:'french',
+        isExpected: true, 
+      },
+
+      'flexible-alerts': { style: 'flat' },
+
+      tabs: {
+        persist: true,
+        sync: true,
+        theme: 'classic',
+        tabComments: true,
+        tabHeadings: true
+      },
+
+      // Configuration du plugin de date
+      updated: {
+        format: '{DD}/{MM}/{YYYY} à {HH}:{mm}',
+        color: '#94a3b8',
+        align: 'right',
+        text: 'Dernière mise à jour : '
+      },
+
+      plugins: [
+        function(hook, vm) {
+            hook.beforeEach(function(html) {
+              // Utilisation de /blob/main/ pour éviter le 404 GitHub
+              var url = 'https://github.com/lilaf-sec/lab-writeups/blob/main/' + vm.route.file;
+              var editHtml = '\n\n----\n\n' +
+                '<p align="center"><a href="' + url + '" target="_blank" style="color: #94a3b8; font-size: 0.8em; text-decoration: none;">' +
+                '✏️ Modifier ce writeup sur GitHub</a></p>\n';
+              return html + editHtml;
+            });
+        }
+      ]
+    }
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-collapse-sidebar/dist/docsify-collapse-sidebar.min.js"></script>
+  <script src="https://unpkg.com/docsify-count/dist/countable.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/dist/docsify-updated.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-powershell.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-sql.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-http.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-regex.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+</body>
+</html>

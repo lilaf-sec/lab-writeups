@@ -1,6 +1,6 @@
 # HTB — Flustered
 
-**Official HTB page**: https://app.hackthebox.com/machines/Flustered?tab=machine_info
+**Official HTB page**: [Flustered](https://app.hackthebox.com/machines/Flustered?tab=machine_info)
 
 **Difficulty**: Medium  
 **OS**: Linux  

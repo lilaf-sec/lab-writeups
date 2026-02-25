@@ -1,6 +1,6 @@
 # HTB — Sau
 
-**Official HTB page**: https://app.hackthebox.com/machines/Sau?tab=play_machine
+**Official HTB page**: [Sau](https://app.hackthebox.com/machines/Sau?tab=play_machine)
 
 **Difficulty**: Easy  
 **OS**: Linux  

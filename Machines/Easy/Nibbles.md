@@ -1,6 +1,6 @@
 # HTB — Nibbles
 
-**Official HTB page**: https://app.hackthebox.com/machines/Nibbles?tab=play_machine
+**Official HTB page**: [Nibbles](https://app.hackthebox.com/machines/Nibbles?tab=play_machine)
 
 **Difficulty**: Easy  
 **OS**: Linux  

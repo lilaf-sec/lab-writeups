@@ -1,6 +1,6 @@
 # HTB — Bashed
 
-**Official HTB page**: https://app.hackthebox.com/machines/Bashed?tab=play_machine
+**Official HTB page**: [Bashed](https://app.hackthebox.com/machines/Bashed?tab=play_machine)
 
 **Difficulty**: Easy  
 **OS**: Linux  

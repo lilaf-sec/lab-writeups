@@ -1,6 +1,6 @@
 # HTB — Blocky
 
-**Official HTB page**: https://app.hackthebox.com/machines/Blocky  
+**Official HTB page**: [Blocky](https://app.hackthebox.com/machines/Blocky)  
 
 **Difficulty**: Easy  
 **OS**: Linux  

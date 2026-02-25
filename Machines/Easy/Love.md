@@ -1,6 +1,6 @@
 # HTB — Love
 
-**Official HTB page**: https://app.hackthebox.com/machines/344?tab=machine_info
+**Official HTB page**: [Love](https://app.hackthebox.com/machines/344?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Windows  

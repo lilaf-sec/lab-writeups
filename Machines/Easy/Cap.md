@@ -1,6 +1,6 @@
 # HTB — Cap
 
-**Official HTB page**: https://app.hackthebox.com/machines/Cap?tab=machine_info
+**Official HTB page**: [Cap](https://app.hackthebox.com/machines/Cap?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Linux  

@@ -58,5 +58,3 @@ Each tag contains a list of related machines and writeups.
 
 These writeups are for **educational purposes only**.  
 All machines were solved in a legal environment.
-
----

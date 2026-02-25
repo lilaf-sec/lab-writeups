@@ -1,6 +1,6 @@
 # HTB — Legacy
 
-**Official HTB page**: https://app.hackthebox.com/machines/2?tab=play_machine
+**Official HTB page**: [Legacy](https://app.hackthebox.com/machines/2?tab=play_machine)
 
 **Difficulty**: Easy  
 **OS**: Windows XP  

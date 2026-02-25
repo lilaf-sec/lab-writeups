@@ -1,6 +1,6 @@
 # HTB — Jerry
 
-**Official HTB page**: https://app.hackthebox.com/machines/Jerry?tab=machine_info
+**Official HTB page**: [Jerry](https://app.hackthebox.com/machines/Jerry?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Windows  

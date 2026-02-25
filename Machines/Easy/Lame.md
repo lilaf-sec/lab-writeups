@@ -1,6 +1,6 @@
 # HTB — Lame
 
-**Official HTB page**: https://app.hackthebox.com/machines/1?tab=play_machine
+**Official HTB page**: [Lame](https://app.hackthebox.com/machines/1?tab=play_machine)
 
 **Difficulty**: Easy  
 **OS**: Linux  

@@ -1,6 +1,6 @@
 # HTB — NodeBlog
 
-**Official HTB page**: https://app.hackthebox.com/machines/NodeBlog?tab=machine_info
+**Official HTB page**: [NodeBlog](https://app.hackthebox.com/machines/NodeBlog?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Linux  

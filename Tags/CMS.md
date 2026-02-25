@@ -20,7 +20,6 @@
 ### 🟢 Easy
 - [Blocky](../Machines/Easy/Blocky.md)
 - [Spectra](../Machines/Easy/Spectra.md)
-- [Apocalyst](../Machines/Easy/Apocalyst.md)
 - [BoardLight](../Machines/Easy/BoardLight.md)
 - [Editor](../Machines/Easy/Editor.md)
 - [Editor](../Machines/Easy/Nibbles.md)
@@ -31,3 +30,4 @@
 ### 🟡 Medium
 - [Hawk](../Machines/Medium/Hawk.md)
 - [Tenten](../Machines/Medium/Tenten.md)
+- [Apocalyst](../Machines/Medium/Apocalyst.md)

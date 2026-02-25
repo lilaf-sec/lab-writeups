@@ -1,6 +1,6 @@
 # HTB — Devel
 
-**Official HTB page**: https://app.hackthebox.com/machines/3?tab=machine_info
+**Official HTB page**: [Devel](https://app.hackthebox.com/machines/3?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Windows  

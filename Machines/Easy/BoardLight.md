@@ -1,6 +1,6 @@
 # HTB — BoardLight
 
-**Official HTB page**: https://app.hackthebox.com/machines/BoardLight  
+**Official HTB page**: [BoardLight](https://app.hackthebox.com/machines/BoardLight)  
 
 **Difficulty**: Easy  
 **OS**: Linux  

@@ -1,6 +1,6 @@
 # HTB — Blue
 
-**Official HTB page**: https://app.hackthebox.com/machines/Blue?tab=machine_info
+**Official HTB page**: [Blue](https://app.hackthebox.com/machines/Blue?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Windows 7  

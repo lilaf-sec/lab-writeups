@@ -1,6 +1,6 @@
 # HTB — Forgotten
 
-**Official HTB page**: https://app.hackthebox.com/machines/Forgotten?tab=play_machine
+**Official HTB page**: [Forgotten](https://app.hackthebox.com/machines/Forgotten?tab=play_machine)
 
 **Difficulty**: Easy  
 **OS**: Linux  

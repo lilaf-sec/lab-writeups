@@ -1,6 +1,6 @@
 # HTB — Editor
 
-**Official HTB page**: https://app.hackthebox.com/machines/Editor?tab=machine_info
+**Official HTB page**: [Editor](https://app.hackthebox.com/machines/Editor?tab=machine_info)
 
 **Difficulty**: Easy  
 **OS**: Linux  

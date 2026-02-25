@@ -19,10 +19,10 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Editorial](../Machines/Easy/Editorial.md)
-- [TwoMillion](../Machines/Easy/TwoMillion.md)
-- [Horizontall](../Machines/Easy/Horizontall.md)
+- [Editorial](/Machines/Easy/Editorial.md)
+- [TwoMillion](/Machines/Easy/TwoMillion.md)
+- [Horizontall](/Machines/Easy/Horizontall.md)
 
 ### 🟡 Medium
-- [Instant](../Machines/Medium/Instant.md)
+- [Instant](/Machines/Medium/Instant.md)
 

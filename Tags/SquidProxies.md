@@ -18,5 +18,5 @@
 
 ### 🟢 Easy
 
-- [Flustered](../Machines/Medium/Flustered.md)
+- [Flustered](/Machines/Medium/Flustered.md)
 

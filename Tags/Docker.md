@@ -18,10 +18,10 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [GoodGames](../Machines/Easy/GoodGames.md)
-- [Toolbox](../Machines/Easy/Toolbox.md)
-- [NodeBlog](../Machines/Easy/NodeBlog.md)
-- [Forgotten](../Machines/Easy/Forgotten.md)
+- [GoodGames](/Machines/Easy/GoodGames.md)
+- [Toolbox](/Machines/Easy/Toolbox.md)
+- [NodeBlog](/Machines/Easy/NodeBlog.md)
+- [Forgotten](/Machines/Easy/Forgotten.md)
 
 ### 🟡 Medium
-- [Bolt](../Machines/Medium/Bolt.md)
+- [Bolt](/Machines/Medium/Bolt.md)

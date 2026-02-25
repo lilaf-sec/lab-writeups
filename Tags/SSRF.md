@@ -17,7 +17,7 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Editorial](../Machines/Easy/Editorial.md)
-- [Love](../Machines/Easy/Love.md)
-- [Sau](../Machines/Easy/Sau.md)
+- [Editorial](/Machines/Easy/Editorial.md)
+- [Love](/Machines/Easy/Love.md)
+- [Sau](/Machines/Easy/Sau.md)
 

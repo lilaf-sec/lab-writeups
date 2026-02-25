@@ -18,10 +18,10 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Cap](../Machines/Easy/Cap.md)
+- [Cap](/Machines/Easy/Cap.md)
 
 
 ### 🟡 Medium
 
-- [Tenten](../Machines/Medium/Tenten.md)
+- [Tenten](/Machines/Medium/Tenten.md)
 

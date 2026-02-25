@@ -19,5 +19,5 @@
 
 ### 🟢 Easy
 
-- [Alert](../Machines/Easy/Alert.md)
+- [Alert](/Machines/Easy/Alert.md)
 

@@ -18,13 +18,13 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [CozyHosting](../Machines/Easy/CozyHosting.md)
-- [Delivery](../Machines/Easy/Delivery.md)
-- [Knife](../Machines/Easy/Knife.md)
-- [Mirai](../Machines/Easy/Mirai.md)
-- [Pilgrimage](../Machines/Easy/Pilgrimage.md)
-- [Previse](../Machines/Easy/Previse.md)
+- [CozyHosting](/Machines/Easy/CozyHosting.md)
+- [Delivery](/Machines/Easy/Delivery.md)
+- [Knife](/Machines/Easy/Knife.md)
+- [Mirai](/Machines/Easy/Mirai.md)
+- [Pilgrimage](/Machines/Easy/Pilgrimage.md)
+- [Previse](/Machines/Easy/Previse.md)
 
 ### 🟡 Medium
 
-- [CodePartTwo](../Machines/Easy/CodePartTwo.md)
+- [CodePartTwo](/Machines/Easy/CodePartTwo.md)

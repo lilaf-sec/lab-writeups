@@ -16,10 +16,10 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Irked](../Machines/Easy/Irked.md)
+- [Irked](/Machines/Easy/Irked.md)
 
 ### 🟡 Medium
 
-- [Tenten](../Machines/Medium/Tenten.md)
-- [Apocalyst](../Machines/Medium/Apocalyst.md)
+- [Tenten](/Machines/Medium/Tenten.md)
+- [Apocalyst](/Machines/Medium/Apocalyst.md)
 

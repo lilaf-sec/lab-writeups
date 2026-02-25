@@ -19,5 +19,5 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Antique](../Machines/Easy/Antique.md)
+- [Antique](/Machines/Easy/Antique.md)
 

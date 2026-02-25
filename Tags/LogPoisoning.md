@@ -18,4 +18,4 @@
 ## 🧪 Machines / Writeups
 
 ### 🟡 Medium
-- [Poison](../Machines/Medium/Poison.md)
+- [Poison](/Machines/Medium/Poison.md)

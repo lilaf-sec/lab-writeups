@@ -18,5 +18,5 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [FriendZone](../Machines/Easy/FriendZone.md)
+- [FriendZone](/Machines/Easy/FriendZone.md)
 

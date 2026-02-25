@@ -19,5 +19,5 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Return](../Machines/Easy/Return.md)
+- [Return](/Machines/Easy/Return.md)
 

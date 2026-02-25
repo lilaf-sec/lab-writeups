@@ -18,5 +18,5 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [NodeBlog](../Machines/Easy/NodeBlog.md)
+- [NodeBlog](/Machines/Easy/NodeBlog.md)
 

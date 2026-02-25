@@ -18,9 +18,9 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Responder](../Machines/Easy/Responder.md)
-- [Driver](../Machines/Easy/Driver.md)
+- [Responder](/Machines/Easy/Responder.md)
+- [Driver](/Machines/Easy/Driver.md)
 
 ### 🟡 Medium
-- [Driver](../Machines/Medium/Jeeves.md)
+- [Driver](/Machines/Medium/Jeeves.md)
 

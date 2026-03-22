@@ -55,6 +55,8 @@
     - [Toolbox.md](Machines/Easy/Toolbox.md)
     - [TwoMillion](Machines/Easy/TwoMillion.md)
     - [Validation](Machines/Easy/Validation.md)
+    - [trust](Machines/Easy/trust.md)
+    - [walkingcms](Machines/Easy/walkingcms.md)
 
 - Medium
     - [Devzat](Machines/Medium/Devzat.md)

@@ -17,7 +17,7 @@
     - [Chemistry](Machines/Easy/Chemistry.md)
     - [Code](Machines/Easy/Code.md)
     - [CodePartTwo](Machines/Easy/CodePartTwo.md)
-    - [CodePartTwo](Machines/Easy/CozyHosting.md)
+    - [CozyHosting](Machines/Easy/CozyHosting.md)
     - [Crafty](Machines/Easy/Crafty.md)
     - [Delivery](Machines/Easy/Delivery.md)
     - [Devel](Machines/Easy/Devel.md)

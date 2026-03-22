@@ -24,6 +24,7 @@
 - [Mirai](/Machines/Easy/Mirai.md)
 - [Pilgrimage](/Machines/Easy/Pilgrimage.md)
 - [Previse](/Machines/Easy/Previse.md)
+- [Trust](/Machines/Easy/trust.md)
 
 ### 🟡 Medium
 

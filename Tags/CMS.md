@@ -26,6 +26,7 @@
 - [Blue](/Machines/Easy/Blue.md)
 - [Horizontall](/Machines/Easy/Horizontall.md)
 - [PermX](/Machines/Easy/PermX.md)
+- [walkingcms](/Machines/Easy/walkingcms.md)
 
 ### 🟡 Medium
 - [Hawk](/Machines/Medium/Hawk.md)

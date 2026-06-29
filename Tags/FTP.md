@@ -21,6 +21,7 @@
 - [Toolbox](/Machines/Easy/Toolbox.md)
 - [Devel](/Machines/Easy/Devel.md)
 - [Netmon](/Machines/Easy/Netmon.md)
+- [Admirer](/Machines/Easy/Admirer.md)
 
 ### 🟡 Medium
 - [Hawk](/Machines/Medium/Hawk.md)

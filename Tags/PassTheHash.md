@@ -19,6 +19,7 @@
 
 ### 🟢 Easy
 - [Responder](/Machines/Easy/Responder.md)
+- [Cicada](/Machines/Easy/Cicada.md)
 
 ### 🟡 Medium
 - [Jeeves](/Machines/Medium/Jeeves.md)

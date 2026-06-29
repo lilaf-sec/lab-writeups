@@ -27,6 +27,8 @@
 - [Grandpa](/Machines/Easy/Grandpa.md)
 - [Granny](/Machines/Easy/Granny.md)
 - [Networked](/Machines/Easy/Networked.md)
+- [Arctic](/Machines/Easy/Arctic.md)
+- [Bounty](/Machines/Easy/Bounty.md)
 
 ### 🟡 Medium
 

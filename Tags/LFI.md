@@ -20,6 +20,7 @@
 ### 🟢 Easy
 - [FriendZone](/Machines/Easy/FriendZone.md)
 - [Responder](/Machines/Easy/Responder.md)
+- [Backdoor](/Machines/Easy/Backdoor.md)
 
 ### 🟡 Medium
 - [Devzat](/Machines/Medium/Devzat.md)

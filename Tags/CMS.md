@@ -27,6 +27,8 @@
 - [Horizontall](/Machines/Easy/Horizontall.md)
 - [PermX](/Machines/Easy/PermX.md)
 - [walkingcms](/Machines/Easy/walkingcms.md)
+- [Admirer](/Machines/Easy/Admirer.md)
+- [Backdoor](/Machines/Easy/Backdoor.md)
 
 ### 🟡 Medium
 - [Hawk](/Machines/Medium/Hawk.md)

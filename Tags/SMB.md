@@ -22,3 +22,5 @@
 - [Legacy](/Machines/Easy/Legacy.md)
 - [Lame](/Machines/Easy/Lame.md)
 - [Responder](/Machines/Easy/Responder.md)
+- [Active](/Machines/Easy/Active.md)
+- [Cicada](/Machines/Easy/Cicada.md)

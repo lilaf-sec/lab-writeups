@@ -57,6 +57,14 @@
     - [Validation](Machines/Easy/Validation.md)
     - [trust](Machines/Easy/trust.md)
     - [walkingcms](Machines/Easy/walkingcms.md)
+    - [Active](Machines/Easy/Active.md)
+    - [Admirer](Machines/Easy/Admirer.md)
+    - [Arctic](Machines/Easy/Arctic.md)
+    - [Backdoor](Machines/Easy/Backdoor.md)
+    - [Bounty](Machines/Easy/Bounty.md)
+    - [BountyHunter](Machines/Easy/BountyHunter.md)
+    - [Cicada](Machines/Easy/Cicada.md)
+
 
 - Medium
     - [Devzat](Machines/Medium/Devzat.md)

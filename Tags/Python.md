@@ -24,6 +24,8 @@
 - [Bashed](/Machines/Easy/Bashed.md)
 - [code](/Machines/Easy/Code.md)
 - [ScriptKiddie](/Machines/Easy/ScriptKiddie.md)
+- [Admirer](/Machines/Easy/Admirer.md)
+- [BountyHunter](/Machines/Easy/BountyHunter.md)
 
 
 ### 🟡 Medium

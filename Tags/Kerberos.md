@@ -23,4 +23,4 @@ Kerberos is heavily used in Windows Active Directory domains and is a central co
 
 ### 🟢 Easy
 - [Active](/Machines/Easy/Active.md)
-
+- [Sauna](/Machines/Easy/Sauna.md)

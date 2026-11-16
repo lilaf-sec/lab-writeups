@@ -18,19 +18,17 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-
-- [Chemistry](/Machines/Easy/Chemistry.md)
-- [Jerry](/Machines/Easy/Jerry.md)
-- [Forgotten](/Machines/Easy/Forgotten.md)
-- [Editor](/Machines/Easy/Nibbles.md)
 - [Alert](/Machines/Easy/Alert.md)
-- [Grandpa](/Machines/Easy/Grandpa.md)
-- [Granny](/Machines/Easy/Granny.md)
-- [Networked](/Machines/Easy/Networked.md)
 - [Arctic](/Machines/Easy/Arctic.md)
 - [Bounty](/Machines/Easy/Bounty.md)
+- [Chemistry](/Machines/Easy/Chemistry.md)
+- [Forgotten](/Machines/Easy/Forgotten.md)
+- [Grandpa](/Machines/Easy/Grandpa.md)
+- [Granny](/Machines/Easy/Granny.md)
+- [Jerry](/Machines/Easy/Jerry.md)
+- [Networked](/Machines/Easy/Networked.md)
+- [Nibbles](/Machines/Easy/Nibbles.md)
+- [ScriptKiddie](/Machines/Easy/ScriptKiddie.md)
 
 ### 🟡 Medium
-
 - [Popcorn](/Machines/Medium/Popcorn.md)
-

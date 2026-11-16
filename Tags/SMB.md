@@ -18,9 +18,10 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [FriendZone](/Machines/Easy/FriendZone.md)
-- [Legacy](/Machines/Easy/Legacy.md)
-- [Lame](/Machines/Easy/Lame.md)
-- [Responder](/Machines/Easy/Responder.md)
 - [Active](/Machines/Easy/Active.md)
+- [Blue](/Machines/Easy/Blue.md)
 - [Cicada](/Machines/Easy/Cicada.md)
+- [FriendZone](/Machines/Easy/FriendZone.md)
+- [Lame](/Machines/Easy/Lame.md)
+- [Legacy](/Machines/Easy/Legacy.md)
+- [Responder](/Machines/Easy/Responder.md)

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 31 Jan, 2022  
 **Platforms**: HackTheBox  
-**Tags**: Squid Proxy, SSTI 
+**Tags**: Squid Proxies, SSTI
 
 ---
 

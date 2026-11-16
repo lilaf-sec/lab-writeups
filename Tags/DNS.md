@@ -19,4 +19,3 @@
 
 ### 🟢 Easy
 - [FriendZone](/Machines/Easy/FriendZone.md)
-

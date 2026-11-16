@@ -20,9 +20,8 @@
 
 ### 🟢 Easy
 - [Editorial](/Machines/Easy/Editorial.md)
-- [TwoMillion](/Machines/Easy/TwoMillion.md)
 - [Horizontall](/Machines/Easy/Horizontall.md)
+- [TwoMillion](/Machines/Easy/TwoMillion.md)
 
 ### 🟡 Medium
 - [Instant](/Machines/Medium/Instant.md)
-

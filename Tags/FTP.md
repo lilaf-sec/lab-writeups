@@ -18,11 +18,10 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Toolbox](/Machines/Easy/Toolbox.md)
+- [Admirer](/Machines/Easy/Admirer.md)
 - [Devel](/Machines/Easy/Devel.md)
 - [Netmon](/Machines/Easy/Netmon.md)
-- [Admirer](/Machines/Easy/Admirer.md)
+- [Toolbox](/Machines/Easy/Toolbox.md)
 
 ### 🟡 Medium
 - [Hawk](/Machines/Medium/Hawk.md)
-

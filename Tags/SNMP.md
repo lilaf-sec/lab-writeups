@@ -20,4 +20,4 @@
 
 ### 🟢 Easy
 - [Antique](/Machines/Easy/Antique.md)
-
+- [Pandora](/Machines/Easy/Pandora.md)

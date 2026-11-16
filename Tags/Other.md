@@ -18,14 +18,11 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [CozyHosting](/Machines/Easy/CozyHosting.md)
+- [CodePartTwo](/Machines/Easy/CodePartTwo.md)
 - [Delivery](/Machines/Easy/Delivery.md)
+- [Heist](/Machines/Easy/Heist.md)
 - [Knife](/Machines/Easy/Knife.md)
 - [Mirai](/Machines/Easy/Mirai.md)
+- [Optimum](/Machines/Easy/Optimum.md)
 - [Pilgrimage](/Machines/Easy/Pilgrimage.md)
-- [Previse](/Machines/Easy/Previse.md)
-- [Trust](/Machines/Easy/trust.md)
-
-### 🟡 Medium
-
-- [CodePartTwo](/Machines/Easy/CodePartTwo.md)
+- [trust](/Machines/Easy/trust.md)

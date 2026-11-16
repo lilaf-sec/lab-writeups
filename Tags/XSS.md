@@ -18,6 +18,5 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-
 - [Alert](/Machines/Easy/Alert.md)
-
+- [Headless](/Machines/Easy/Headless.md)

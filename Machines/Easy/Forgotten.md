@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 14 Aug, 2025  
 **Platforms**: HackTheBox  
-**Tags**: Docker, File upload, SQL
+**Tags**: Docker, File Upload, SQL
 
 ---
 

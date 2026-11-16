@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 14 Mar, 2017  
 **Platforms**: HackTheBox  
-**Tags**: Samba
+**Tags**: SMB
 
 ---
 

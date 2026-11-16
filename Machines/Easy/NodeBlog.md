@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 10 Jan, 2022  
 **Platforms**: HackTheBox  
-**Tags**: NoSQL Injection, XXE, Docker, Deserialization
+**Tags**: NoSQL, XXE, Docker, Deserialization
 
 ---
 

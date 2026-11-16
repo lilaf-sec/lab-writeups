@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 03 Mar, 2018  
 **Platforms**: HackTheBox  
-**Tags**: python  
+**Tags**: Python
 
 ---
 

@@ -18,6 +18,5 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [NodeBlog](/Machines/Easy/NodeBlog.md)
 - [BountyHunter](/Machines/Easy/BountyHunter.md)
-
+- [NodeBlog](/Machines/Easy/NodeBlog.md)

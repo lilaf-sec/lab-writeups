@@ -18,9 +18,10 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [FriendZone](/Machines/Easy/FriendZone.md)
-- [Responder](/Machines/Easy/Responder.md)
 - [Backdoor](/Machines/Easy/Backdoor.md)
+- [FriendZone](/Machines/Easy/FriendZone.md)
+- [Mailing](/Machines/Easy/Mailing.md)
+- [Responder](/Machines/Easy/Responder.md)
 
 ### 🟡 Medium
 - [Devzat](/Machines/Medium/Devzat.md)

@@ -18,11 +18,11 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [GoodGames](/Machines/Easy/GoodGames.md)
-- [Validation](/Machines/Easy/Validation.md)
-- [Toolbox](/Machines/Easy/Toolbox.md)
 - [Forgotten](/Machines/Easy/Forgotten.md)
+- [GoodGames](/Machines/Easy/GoodGames.md)
+- [Pandora](/Machines/Easy/Pandora.md)
+- [Toolbox](/Machines/Easy/Toolbox.md)
+- [Validation](/Machines/Easy/Validation.md)
 
 ### 🟡 Medium
-
 - [Union](/Machines/Medium/Union.md)

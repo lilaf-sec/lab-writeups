@@ -18,4 +18,3 @@
 
 ### 🟢 Easy
 - [Shocker](/Machines/Easy/Shocker.md)
-

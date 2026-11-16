@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 15 Mar, 2017  
 **Platforms**: HackTheBox  
-**Tags**: File upload  
+**Tags**: File Upload
 
 ---
 

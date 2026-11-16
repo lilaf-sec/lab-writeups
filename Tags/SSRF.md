@@ -20,4 +20,3 @@
 - [Editorial](/Machines/Easy/Editorial.md)
 - [Love](/Machines/Easy/Love.md)
 - [Sau](/Machines/Easy/Sau.md)
-

@@ -16,7 +16,5 @@
 
 ## 🧪 Machines / Writeups
 
-### 🟢 Easy
-
+### 🟡 Medium
 - [Flustered](/Machines/Medium/Flustered.md)
-

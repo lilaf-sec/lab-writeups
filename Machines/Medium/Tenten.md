@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 22 Mar, 2017  
 **Platforms**: HackTheBox  
-**Tags**: CMS, Idor, steganography, python  
+**Tags**: CMS, IDOR, Steganography, Python
 
 ---
 

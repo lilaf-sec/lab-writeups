@@ -18,7 +18,6 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Responder](/Machines/Easy/Responder.md)
 - [Cicada](/Machines/Easy/Cicada.md)
 
 ### 🟡 Medium

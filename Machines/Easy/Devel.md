@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 15 Mar, 2017  
 **Platforms**: HackTheBox  
-**Tags**: FTP 
+**Tags**: FTP
 
 ---
 

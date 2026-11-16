@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 12 Mar, 2021  
 **Platforms**: HackTheBox  
-**Tags**: FTP, Docker, SQL Injection, 
+**Tags**: FTP, Docker, SQL
 
 ---
 

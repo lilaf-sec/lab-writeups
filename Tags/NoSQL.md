@@ -19,4 +19,3 @@
 
 ### 🟢 Easy
 - [NodeBlog](/Machines/Easy/NodeBlog.md)
-

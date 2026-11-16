@@ -19,9 +19,9 @@
 
 ### 🟢 Easy
 - [GoodGames](/Machines/Easy/GoodGames.md)
+- [Late](/Machines/Easy/Late.md)
 - [Nunchucks](/Machines/Easy/Nunchucks.md)
 
 ### 🟡 Medium
 - [Bolt](/Machines/Medium/Bolt.md)
 - [Flustered](/Machines/Medium/Flustered.md)
-

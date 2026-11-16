@@ -18,19 +18,18 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Blocky](/Machines/Easy/Blocky.md)
-- [Spectra](/Machines/Easy/Spectra.md)
-- [BoardLight](/Machines/Easy/BoardLight.md)
-- [Editor](/Machines/Easy/Editor.md)
-- [Editor](/Machines/Easy/Nibbles.md)
-- [Blue](/Machines/Easy/Blue.md)
-- [Horizontall](/Machines/Easy/Horizontall.md)
-- [PermX](/Machines/Easy/PermX.md)
-- [walkingcms](/Machines/Easy/walkingcms.md)
 - [Admirer](/Machines/Easy/Admirer.md)
 - [Backdoor](/Machines/Easy/Backdoor.md)
+- [Blocky](/Machines/Easy/Blocky.md)
+- [BoardLight](/Machines/Easy/BoardLight.md)
+- [Editor](/Machines/Easy/Editor.md)
+- [Horizontall](/Machines/Easy/Horizontall.md)
+- [Nibbles](/Machines/Easy/Nibbles.md)
+- [PermX](/Machines/Easy/PermX.md)
+- [Spectra](/Machines/Easy/Spectra.md)
+- [walkingcms](/Machines/Easy/walkingcms.md)
 
 ### 🟡 Medium
+- [Apocalyst](/Machines/Medium/Apocalyst.md)
 - [Hawk](/Machines/Medium/Hawk.md)
 - [Tenten](/Machines/Medium/Tenten.md)
-- [Apocalyst](/Machines/Medium/Apocalyst.md)

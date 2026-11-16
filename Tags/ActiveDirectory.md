@@ -19,7 +19,7 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [Return](/Machines/Easy/Return.md)
 - [Active](/Machines/Easy/Active.md)
 - [Cicada](/Machines/Easy/Cicada.md)
-
+- [Return](/Machines/Easy/Return.md)
+- [Sauna](/Machines/Easy/Sauna.md)

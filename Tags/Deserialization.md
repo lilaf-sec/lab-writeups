@@ -18,6 +18,5 @@
 ## 🧪 Machines / Writeups
 
 ### 🟢 Easy
-- [NodeBlog](/Machines/Easy/NodeBlog.md)
 - [Broker](/Machines/Easy/Broker.md)
-
+- [NodeBlog](/Machines/Easy/NodeBlog.md)

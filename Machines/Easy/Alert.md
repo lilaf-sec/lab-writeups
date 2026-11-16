@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 23 Nov, 2024
 **Platforms**: HackTheBox  
-**Tags**: XSS, File upload
+**Tags**: XSS, File Upload
 
 ---
 

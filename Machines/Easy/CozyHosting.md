@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 02 Sep, 2023  
 **Platforms**: HackTheBox  
-**Tags**: Other
+**Tags**: Command Injection
 
 ---
 

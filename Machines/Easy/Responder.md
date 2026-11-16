@@ -6,7 +6,7 @@
 **OS**: Windows     
 **Release date**: 06 Apr, 2022      
 **Platforms**: HackTheBox         
-**Tags**: LFI, SMB, NTLM abuse      
+**Tags**: LFI, SMB, NTLM
 
 ---
 

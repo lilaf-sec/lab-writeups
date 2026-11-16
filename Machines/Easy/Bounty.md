@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Platform**: HackTheBox  
 
-**Tags**: FileUpload
+**Tags**: File Upload
 
 ---
 

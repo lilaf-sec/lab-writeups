@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 02 Mar, 2019  
 **Platforms**: HackTheBox  
-**Tags**: FTP
+**Tags**: [FTP](/Tags/FTP.md)
 
 ---
 

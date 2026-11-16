@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 14 Aug, 2025  
 **Platforms**: HackTheBox  
-**Tags**: Docker, File Upload, SQL
+**Tags**: [Docker](/Tags/Docker.md), [File Upload](/Tags/FileUpload.md), [SQL](/Tags/SQL.md)
 
 ---
 

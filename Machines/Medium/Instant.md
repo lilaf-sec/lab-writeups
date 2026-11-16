@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 12 Oct, 2024  
 **Platforms**: HackTheBox  
-**Tags**: API Abuse, LFI, Python
+**Tags**: [API Abuse](/Tags/ApiAbuse.md), [LFI](/Tags/LFI.md), [Python](/Tags/Python.md)
 
 ---
 

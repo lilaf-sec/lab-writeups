@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 17 Nov, 2018  
 **Platforms**: HackTheBox  
-**Tags**: Steganography
+**Tags**: [Steganography](/Tags/Steganography.md)
 
 ---
 

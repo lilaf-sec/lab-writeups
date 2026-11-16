@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 22 Mar, 2025  
 **Platforms**: HackTheBox  
-**Tags**: Python
+**Tags**: [Python](/Tags/Python.md)
 
 ---
 

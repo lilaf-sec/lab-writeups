@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 11 Nov, 2017  
 **Platforms**: HackTheBox  
-**Tags**: KeePass, Pass-the-Hash, NTLM
+**Tags**: [KeePass](/Tags/KeePass.md), [Pass-the-Hash](/Tags/PassTheHash.md), [NTLM](/Tags/NTLM.md)
 
 ---
 

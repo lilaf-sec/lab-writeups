@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 14 Nov, 2020  
 **Platforms**: HackTheBox  
-**Tags**: Path Hijacking
+**Tags**: [Path Hijacking](/Tags/PathHijacking.md)
 
 ---
 

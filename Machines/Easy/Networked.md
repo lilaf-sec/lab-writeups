@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 24 Aug, 2019  
 **Platforms**: HackTheBox  
-**Tags**: File Upload
+**Tags**: [File Upload](/Tags/FileUpload.md)
 
 ---
 

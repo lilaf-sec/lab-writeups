@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 07 Jun, 2023    
 **Platforms**: HackTheBox  
-**Tags**: API Abuse
+**Tags**: [API Abuse](/Tags/ApiAbuse.md)
 
 ---
 

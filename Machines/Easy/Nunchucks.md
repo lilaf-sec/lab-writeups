@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 02 Nov, 2021  
 **Platforms**: HackTheBox  
-**Tags**: SSTI
+**Tags**: [SSTI](/Tags/SSTI.md)
 
 ---
 

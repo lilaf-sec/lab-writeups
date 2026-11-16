@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 24 Jun, 2023  
 **Platforms**: HackTheBox  
-**Tags**: Other
+**Tags**: [Other](/Tags/Other.md)
 
 ---
 

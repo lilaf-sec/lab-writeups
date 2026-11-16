@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 28 Aug, 2021  
 **Platforms**: HackTheBox  
-**Tags**: CMS, API Abuse
+**Tags**: [CMS](/Tags/CMS.md), [API Abuse](/Tags/ApiAbuse.md)
 
 ---
 

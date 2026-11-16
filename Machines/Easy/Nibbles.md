@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 30 Jun, 2018  
 **Platforms**: HackTheBox  
-**Tags**: File Upload, CMS
+**Tags**: [File Upload](/Tags/FileUpload.md), [CMS](/Tags/CMS.md)
 
 ---
 

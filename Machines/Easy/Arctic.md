@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Platform**: HackTheBox  
 
-**Tags**: File Upload
+**Tags**: [File Upload](/Tags/FileUpload.md)
 
 ---
 

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 15 Dec, 2018  
 **Platforms**: HackTheBox  
-**Tags**: Latex Injection, Python
+**Tags**: [Latex Injection](/Tags/LatexInjection.md), [Python](/Tags/Python.md)
 
 ---
 

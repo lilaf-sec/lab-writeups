@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Platform**: HackTheBox  
 
-**Tags**: XXE, Python
+**Tags**: [XXE](/Tags/XXE.md), [Python](/Tags/Python.md)
 
 ---
 

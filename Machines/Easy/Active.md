@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 28 Jul, 2018  
 **Platforms**: HackTheBox  
-**Tags**: SMB, Active Directory, Kerberos
+**Tags**: [SMB](/Tags/SMB.md), [Active Directory](/Tags/ActiveDirectory.md), [Kerberos](/Tags/Kerberos.md)
 
 ---
 

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 10 Jan, 2022  
 **Platforms**: HackTheBox  
-**Tags**: NoSQL, XXE, Docker, Deserialization
+**Tags**: [NoSQL](/Tags/NoSQL.md), [XXE](/Tags/XXE.md), [Docker](/Tags/Docker.md), [Deserialization](/Tags/Deserialization.md)
 
 ---
 

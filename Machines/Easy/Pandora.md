@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 08 Jan, 2022  
 **Platforms**: HackTheBox  
-**Tags**: SNMP, SQL, Path Hijacking
+**Tags**: [SNMP](/Tags/SNMP.md), [SQL](/Tags/SQL.md), [Path Hijacking](/Tags/PathHijacking.md)
 
 ---
 

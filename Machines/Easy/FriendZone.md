@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 09 Feb, 2019  
 **Platforms**: HackTheBox  
-**Tags**: LFI, SMB, DNS, Python
+**Tags**: [LFI](/Tags/LFI.md), [SMB](/Tags/SMB.md), [DNS](/Tags/DNS.md), [Python](/Tags/Python.md)
 
 ---
 

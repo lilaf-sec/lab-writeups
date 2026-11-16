@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 12 Apr, 2017  
 **Platforms**: HackTheBox  
-**Tags**: File Upload
+**Tags**: [File Upload](/Tags/FileUpload.md)
 
 ---
 

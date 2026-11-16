@@ -6,7 +6,7 @@
 **OS**: ChromeOS  
 **Release date**: 27 Feb, 2021
 **Platforms**: HackTheBox  
-**Tags**: CMS, Python
+**Tags**: [CMS](/Tags/CMS.md), [Python](/Tags/Python.md)
 
 ---
 

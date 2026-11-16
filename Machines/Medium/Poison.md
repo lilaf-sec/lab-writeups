@@ -6,7 +6,7 @@
 **OS**: FreeBSD  
 **Release date**: 24 Mar, 2018  
 **Platforms**: HackTheBox  
-**Tags**: LFI, Log Poisoning
+**Tags**: [LFI](/Tags/LFI.md), [Log Poisoning](/Tags/LogPoisoning.md)
 
 ---
 

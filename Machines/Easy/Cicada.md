@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Platform**: HackTheBox  
 
-**Tags**: Active Directory, SMB, Pass-the-Hash
+**Tags**: [Active Directory](/Tags/ActiveDirectory.md), [SMB](/Tags/SMB.md), [Pass-the-Hash](/Tags/PassTheHash.md)
 
 ---
 

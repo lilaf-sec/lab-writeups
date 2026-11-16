@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 25 May, 2024  
 **Platforms**: HackTheBox  
-**Tags**: CMS
+**Tags**: [CMS](/Tags/CMS.md)
 
 ---
 

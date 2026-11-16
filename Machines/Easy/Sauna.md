@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 15 Feb, 2020  
 **Platforms**: HackTheBox  
-**Tags**: Active Directory, Kerberos
+**Tags**: [Active Directory](/Tags/ActiveDirectory.md), [Kerberos](/Tags/Kerberos.md)
 
 ---
 

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 14 Jul, 2018  
 **Platforms**: HackTheBox  
-**Tags**: FTP, CMS
+**Tags**: [FTP](/Tags/FTP.md), [CMS](/Tags/CMS.md)
 
 ---
 

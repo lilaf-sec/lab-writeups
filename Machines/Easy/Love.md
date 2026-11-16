@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 01 May, 2021  
 **Platforms**: HackTheBox  
-**Tags**: SSRF
+**Tags**: [SSRF](/Tags/SSRF.md)
 
 ---
 

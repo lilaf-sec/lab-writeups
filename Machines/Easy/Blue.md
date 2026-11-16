@@ -6,7 +6,7 @@
 **OS**: Windows 7  
 **Release date**: 28 Jul, 2017  
 **Platforms**: HackTheBox  
-**Tags**: SMB
+**Tags**: [SMB](/Tags/SMB.md)
 
 ---
 

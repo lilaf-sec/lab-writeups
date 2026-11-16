@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 05 Jun, 2021  
 **Platforms**: HackTheBox  
-**Tags**: IDOR
+**Tags**: [IDOR](/Tags/IDOR.md)
 
 ---
 

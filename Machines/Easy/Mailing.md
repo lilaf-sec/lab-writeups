@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 04 May, 2024  
 **Platforms**: HackTheBox  
-**Tags**: LFI, NTLM
+**Tags**: [LFI](/Tags/LFI.md), [NTLM](/Tags/NTLM.md)
 
 ---
 

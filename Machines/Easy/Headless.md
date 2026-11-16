@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 23 Mar, 2024  
 **Platforms**: HackTheBox  
-**Tags**: XSS, Command Injection
+**Tags**: [XSS](/Tags/XSS.md), [Command Injection](/Tags/CommandInjection.md)
 
 ---
 

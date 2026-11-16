@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 25 Sep, 2021  
 **Platforms**: HackTheBox  
-**Tags**: Docker, SSTI
+**Tags**: [Docker](/Tags/Docker.md), [SSTI](/Tags/SSTI.md)
 
 ---
 

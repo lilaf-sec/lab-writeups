@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 02 Oct, 2021  
 **Platforms**: HackTheBox  
-**Tags**: NTLM
+**Tags**: [NTLM](/Tags/NTLM.md)
 
 ---
 

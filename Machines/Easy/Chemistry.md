@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 19 Oct, 2024  
 **Platforms**: HackTheBox  
-**Tags**: File Upload, Python
+**Tags**: [File Upload](/Tags/FileUpload.md), [Python](/Tags/Python.md)
 
 ---
 

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Platform**: HackTheBox  
 
-**Tags**: FTP, CMS, Python
+**Tags**: [FTP](/Tags/FTP.md), [CMS](/Tags/CMS.md), [Python](/Tags/Python.md)
 
 ---
 

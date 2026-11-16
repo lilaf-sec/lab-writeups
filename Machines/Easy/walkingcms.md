@@ -5,7 +5,7 @@
 **Difficulty**: Easy  
 **OS**: Linux  
 **Platforms**: DockerLabs  
-**Tags**: CMS
+**Tags**: [CMS](/Tags/CMS.md)
 
 ---
 

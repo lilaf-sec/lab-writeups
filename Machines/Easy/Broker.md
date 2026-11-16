@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 05 Nov, 2023  
 **Platforms**: HackTheBox  
-**Tags**: Deserialization
+**Tags**: [Deserialization](/Tags/Deserialization.md)
 
 ---
 

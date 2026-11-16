@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 27 Sep, 2021  
 **Platforms**: HackTheBox  
-**Tags**: Active Directory
+**Tags**: [Active Directory](/Tags/ActiveDirectory.md)
 
 ---
 

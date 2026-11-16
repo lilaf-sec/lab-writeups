@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 27 Sep, 2021  
 **Platforms**: HackTheBox  
-**Tags**: SNMP
+**Tags**: [SNMP](/Tags/SNMP.md)
 
 ---
 

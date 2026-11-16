@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 10 Feb, 2024  
 **Platforms**: HackTheBox  
-**Tags**: Log4Shell
+**Tags**: [Log4Shell](/Tags/Log4Shell.md)
 
 ---
 

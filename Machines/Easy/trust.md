@@ -5,7 +5,7 @@
 **Difficulty**: Easy  
 **OS**: Linux  
 **Platforms**: DockerLabs  
-**Tags**: Other
+**Tags**: [Other](/Tags/Other.md)
 
 ---
 

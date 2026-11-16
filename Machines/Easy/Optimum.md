@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 18 Mar, 2017  
 **Platforms**: HackTheBox  
-**Tags**: Other
+**Tags**: [Other](/Tags/Other.md)
 
 ---
 

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 13 Sep, 2021  
 **Platforms**: HackTheBox  
-**Tags**: SQL
+**Tags**: [SQL](/Tags/SQL.md)
 
 ---
 

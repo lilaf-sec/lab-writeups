@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 02 Aug, 2025  
 **Platforms**: HackTheBox  
-**Tags**: CMS
+**Tags**: [CMS](/Tags/CMS.md)
 
 ---
 

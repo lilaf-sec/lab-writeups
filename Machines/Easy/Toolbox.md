@@ -6,7 +6,7 @@
 **OS**: Windows  
 **Release date**: 12 Mar, 2021  
 **Platforms**: HackTheBox  
-**Tags**: FTP, Docker, SQL
+**Tags**: [FTP](/Tags/FTP.md), [Docker](/Tags/Docker.md), [SQL](/Tags/SQL.md)
 
 ---
 

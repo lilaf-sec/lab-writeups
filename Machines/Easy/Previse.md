@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 07 Aug, 2021  
 **Platforms**: HackTheBox  
-**Tags**: Command Injection, Path Hijacking
+**Tags**: [Command Injection](/Tags/CommandInjection.md), [Path Hijacking](/Tags/PathHijacking.md)
 
 ---
 

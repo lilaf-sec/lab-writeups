@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 20 Jan, 2026  
 **Platforms**: HackTheBox  
-**Tags**: KeePass
+**Tags**: [KeePass](/Tags/KeePass.md)
 
 ---
 

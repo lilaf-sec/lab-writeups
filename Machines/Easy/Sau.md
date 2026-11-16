@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 08 Jul, 2023
 **Platforms**: HackTheBox  
-**Tags**: SSRF
+**Tags**: [SSRF](/Tags/SSRF.md)
 
 ---
 

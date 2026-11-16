@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Platform**: HackTheBox  
 
-**Tags**: CMS, LFI
+**Tags**: [CMS](/Tags/CMS.md), [LFI](/Tags/LFI.md)
 
 ---
 

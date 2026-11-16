@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 30 Sep, 2017  
 **Platforms**: HackTheBox  
-**Tags**: Shellshock
+**Tags**: [Shellshock](/Tags/Shellshock.md)
 
 ---
 

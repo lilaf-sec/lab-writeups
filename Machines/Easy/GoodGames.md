@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 21 Feb, 2022  
 **Platforms**: HackTheBox  
-**Tags**: SQL, SSTI, Docker
+**Tags**: [SQL](/Tags/SQL.md), [SSTI](/Tags/SSTI.md), [Docker](/Tags/Docker.md)
 
 ---
 

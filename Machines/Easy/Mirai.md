@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 01 Sep, 2017  
 **Platforms**: HackTheBox  
-**Tags**: Other
+**Tags**: [Other](/Tags/Other.md)
 
 ---
 

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 16 Oct, 2021  
 **Platforms**: HackTheBox  
-**Tags**: LFI
+**Tags**: [LFI](/Tags/LFI.md)
 
 ---
 

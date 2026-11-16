@@ -6,7 +6,7 @@
 **OS**: Linux
 **Release date**: 15 Jun, 2024  
 **Platforms**: HackTheBox  
-**Tags**: SSRF, API Abuse
+**Tags**: [SSRF](/Tags/SSRF.md), [API Abuse](/Tags/ApiAbuse.md)
 
 ---
 

@@ -6,7 +6,7 @@
 **OS**: Linux  
 **Release date**: 18 Aug, 2017  
 **Platforms**: HackTheBox  
-**Tags**: CMS, Steganography
+**Tags**: [CMS](/Tags/CMS.md), [Steganography](/Tags/Steganography.md)
 
 ---
 
